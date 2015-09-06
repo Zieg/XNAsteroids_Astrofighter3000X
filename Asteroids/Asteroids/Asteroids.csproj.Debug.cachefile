@@ -1,0 +1,16 @@
+Content\Objects\ship.xnb
+Content\Objects\asteroid.xnb
+Content\Objects\explosion.xnb
+Content\Backgrounds\MainMenuBackground.xnb
+Content\Backgrounds\GameScreenBackground.xnb
+Content\Backgrounds\HighScoreBackground.xnb
+Content\Objects\asteroid_pixelated.xnb
+Content\Objects\beamParticle.xnb
+Content\Backgrounds\GameOverScreen.xnb
+Content\Objects\exhaust.xnb
+Content\Objects\asteroid_pixelated_hitbox.xnb
+Content\Sounds\Exhaust.xnb
+Content\Sounds\Explosion.xnb
+Content\Sounds\Laser_Shoot.xnb
+Content\Sounds\BackgroundMusic.xnb
+Content\OCRA.xnb

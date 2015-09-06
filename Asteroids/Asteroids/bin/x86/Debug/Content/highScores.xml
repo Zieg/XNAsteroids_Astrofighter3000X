@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<HighScoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <playerName>
+    <string>ACE</string>
+    <string>BEN</string>
+    <string>CID</string>
+  </playerName>
+  <score>
+    <int>99999999</int>
+    <int>75000000</int>
+    <int>50000000</int>
+  </score>
+  <Count>3</Count>
+</HighScoreData>
